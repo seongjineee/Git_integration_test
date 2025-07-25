@@ -6,5 +6,6 @@ public class Calculator {
         System.out.println("4/2=2");
         System.out.println("학원에서 작업1");
         System.out.println("집에서 작업1");
+        System.out.println("학원에서 작업1");
     }
 }
