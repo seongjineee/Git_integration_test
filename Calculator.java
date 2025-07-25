@@ -10,5 +10,6 @@ public class Calculator {
         System.out.println("집에서 작업1");
         System.out.println("학원에서 작업1");
         System.out.println("집에서 작업2");
+        // 완료1
     }
 }
